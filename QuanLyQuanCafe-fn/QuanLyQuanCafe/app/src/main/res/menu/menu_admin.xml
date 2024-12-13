@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_admin_product"
+        android:icon="@drawable/baseline_category_24"
+        android:title="Quản lý sản phẩm" />
+    <item
+        android:id="@+id/menu_admin_bill"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Quản lý đơn hàng" />
+</menu>
